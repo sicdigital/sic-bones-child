@@ -1,0 +1,21 @@
+{
+  "name": "SIC Bones",
+  "version": "1.0.0",
+  "authors": [
+    "Mike Chacon"
+  ],
+  "description": "SIC Theme starter, based on the bones theme",
+  "main": "index.php",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate-sass": "^0.6.6"
+  }
+}

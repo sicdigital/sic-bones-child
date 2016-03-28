@@ -1,0 +1,20 @@
+{
+  "name": "SIC-Bones",
+  "version": "1.0.0",
+  "description": "Starter theme for SIC Websites, based off of the bones theme",
+  "main": "functions.php",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-util": "^3.0.4"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-watch": "^4.3.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Chacon",
+  "license": "ISC"
+}
